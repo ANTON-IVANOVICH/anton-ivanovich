@@ -1,8 +1,7 @@
-### Hello World! I'm Anton <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hello World! I'm Anton. Frontend - Developer <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Explore WebDev from 01.06.2021.
 - 🎓 &nbsp; Trust in Frontend.
 - 🌱 &nbsp; Work on React.
 
@@ -13,8 +12,7 @@
 - 🔧 &nbsp; VScode | Figma
 
 
-### 📫🤝🏻 Connect with Me
+### 📫 Connect with Me
 
- - My resume [hh.ru](https://rostov.hh.ru/resume/72b902a7ff08d7a82e0039ed1f4c3541745662) 👨🏻‍💻
  - Shoot Me an [Email](antonvolchanskiy@gmail.com) 💌
  - [Telegram](https://t.me/antonivanovichii)
