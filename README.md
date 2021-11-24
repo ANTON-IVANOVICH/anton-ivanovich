@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ✍️ &nbsp; Learning frontend - development.
+- ✍️ &nbsp; Frontend - developer.
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
 
