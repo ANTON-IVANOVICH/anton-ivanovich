@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Explore WebDev.
+- 🤔 &nbsp; Explore WebDev from 01.06.2021.
 - 🎓 &nbsp; Trust in Frontend.
 - 🌱 &nbsp; Work on React.
 
@@ -15,6 +15,6 @@
 
 ### 📫🤝🏻 Connect with Me
 
- - My hh.ru [hh.ru](https://rostov.hh.ru/resume/72b902a7ff08d7a82e0039ed1f4c3541745662) 👨🏻‍💻
+ - My resume [hh.ru](https://rostov.hh.ru/resume/72b902a7ff08d7a82e0039ed1f4c3541745662) 👨🏻‍💻
  - Shoot Me an [Email](antonvolchanskiy@gmail.com) 💌
- - Telegram [Telegram](https://t.me/antonivanovichii)
+ - [Telegram](https://t.me/antonivanovichii)
