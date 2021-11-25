@@ -1,18 +1,21 @@
-### Hello World! I'm Anton. Frontend - Developer <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<h3> 👨🏻‍💻 About Me </h3>
+```js
+import FrontendDeveloper from 'antonvolchanskiy';
 
-- 🎓 &nbsp; Trust in Frontend.
-- 🌱 &nbsp; Work on React.
+class Bio extends FrontendDeveloper {
+  name     = 'Anton Volchanskiy';
+  title    = 'Frontend Developer';
+  company  = '';
+  location = 'Rostov-on-Don, RU';
+}
 
-<h3>🛠 Tech Stack</h3>
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS
-- 🛢 &nbsp; PostgreSQL | MongoDB
-- 🔧 &nbsp; VScode | Figma
-
-
-### 📫 Connect with Me
+class Skills extends FrontendDeveloper {
+  languages  = ['HTML', 'CSS', 'JavaScript'];
+  databases  = ['MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native'];
+}
+```
 
  - Shoot Me an [Email](antonvolchanskiy@gmail.com) 💌
  - [Telegram](https://t.me/antonivanovichii)
