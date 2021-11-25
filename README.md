@@ -16,8 +16,6 @@ class Skills extends FrontendDeveloper {
   frameworks = ['React', 'React Native'];
 }
 ```
-<br />
- - Shoot Me an [Email](antonvolchanskiy@gmail.com) 💌
+
+- Shoot Me an [Email](antonvolchanskiy@gmail.com) 💌
  - [Telegram](https://t.me/antonivanovichii)
-<br />
-<img align="center" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
