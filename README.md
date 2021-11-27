@@ -11,11 +11,11 @@ class Bio extends FrontendDeveloper {
 }
 
 class Skills extends FrontendDeveloper {
-  languages  = ['JavaScript'];
+  languages  = ['JavaScript', 'TypeScript'];
   databases  = ['MongoDB', 'PostgreSQL'];
   frameworks = ['React', 'React Native'];
+  instruments = ['Figma', 'VSCode'];
 }
 ```
 
-- Shoot Me an [Email](antonvolchanskiy@gmail.com) 💌
- - [Telegram](https://t.me/antonivanovichii)
+- Shoot Me an [Telegram](https://t.me/antonivanovichii)
