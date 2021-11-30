@@ -6,14 +6,14 @@ import FrontendDeveloper from 'antonvolchanskiy';
 class Bio extends FrontendDeveloper {
   name     = 'Anton Volchanskiy';
   title    = 'Frontend Developer';
-  company  = '';
+  company  = null;
   location = 'Rostov-on-Don, RU';
 }
 
 class Skills extends FrontendDeveloper {
   languages  = ['JavaScript', 'TypeScript'];
+  frameworks = ['React'];
   databases  = ['MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native'];
   instruments = ['Figma', 'VSCode'];
 }
 ```
