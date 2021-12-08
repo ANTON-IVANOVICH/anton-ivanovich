@@ -6,7 +6,6 @@ import FrontendDeveloper from 'antonvolchanskiy';
 class Bio extends FrontendDeveloper {
   name     = 'Anton Volchanskiy';
   title    = 'Frontend Developer';
-  company  = null;
   location = 'Rostov-on-Don, RU';
 }
 
